@@ -42,4 +42,4 @@ a_lvr_land_c.csv|schema-main-rent.csv|臺北市不動產租賃
 # 台北市近5年房屋買賣單坪價格走勢圖
 ![台北市近5年房屋買賣單坪價格走勢圖檔](static/charts/台北市_房屋買賣交易_plt_chart.png)
 
-[台北市近5年房屋買賣單坪價格走勢圖-Tableau](https://public.tableau.com/views/taipei_real_estate_price/5?:language=zh-TW&publish=yes&:display_count=n&:origin=viz_share_link)
+[台北市近5年房屋買賣單坪價格走勢圖-Tableau](https://public.tableau.com/views/taipei_real_estate_price/5_1?:language=en-US&:display_count=n&:origin=viz_share_link)
