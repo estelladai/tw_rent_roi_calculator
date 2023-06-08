@@ -19,7 +19,7 @@ a_lvr_land_c.csv|schema-main-rent.csv|臺北市不動產租賃
 1. git clone此repo到您的本地電腦
 2. 透過requirements.txt來安裝所需Python套件
 3. 更改config.ini的相關設定
-5. 執行main.py以抓取不動產資料，並計算租金投資回報率
+5. 執行main.py抓取不動產資料，並計算租金投資回報率
 
 # 台灣各地區租金投資回報率
 [台灣各地區租金投資回報率](https://docs.google.com/spreadsheets/d/1qSuhjntSfDnmu9lnagC09AbsrHQ8Q0qDM3eVSb07LVw/edit#gid=609529863)
