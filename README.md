@@ -13,7 +13,7 @@ a_lvr_land_a.csv|schema-main.csv|臺北市不動產買賣
 a_lvr_land_b.csv|schema-main-sale.csv|臺北市預售屋買賣
 a_lvr_land_c.csv|schema-main-rent.csv|臺北市不動產租賃
 
-![所有資料說明表-manifest](https://docs.google.com/spreadsheets/d/1qSuhjntSfDnmu9lnagC09AbsrHQ8Q0qDM3eVSb07LVw/edit#gid=609529863)
+[所有資料說明表-manifest](https://docs.google.com/spreadsheets/d/1qSuhjntSfDnmu9lnagC09AbsrHQ8Q0qDM3eVSb07LVw/edit#gid=609529863)
 
 # 使用方法
 1. git clone此repo到您的本地電腦
