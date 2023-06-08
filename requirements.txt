@@ -1,0 +1,8 @@
+gspread-dataframe==3.3.0
+gspread==5.9.0
+pip==23.1.2
+requests==2.31.0
+pandas==2.0.2
+plotly==5.14.1
+kaleido==0.2.1
+matplotlib==3.7.1
